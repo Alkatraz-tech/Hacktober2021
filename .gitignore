@@ -234,3 +234,10 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+### Java ###
+# Compiled class file
+*.class
+
+# Binaries for programs and plugins
+*.exe
