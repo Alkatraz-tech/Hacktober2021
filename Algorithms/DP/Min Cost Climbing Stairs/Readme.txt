@@ -1,0 +1,1 @@
+Solution for 746. Min Cost Climbing Stairs on leetcode
